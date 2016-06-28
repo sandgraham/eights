@@ -1,0 +1,29 @@
+body {
+  font-family: roboto;
+  background: #e8e8e8;
+}
+
+.message {
+  display: block;
+  background-color: #fff;
+  padding: 1em 1.5em;
+  border: solid 1px #ddd;
+  margin-bottom: .5em;
+}
+
+.message-author {
+  font-weight: 600;
+  margin-bottom: .25em;
+}
+
+.message-content {
+  font-weight: 300;
+  margin-bottom: .25em;
+}
+
+.message-date {
+  color: rgba(0,0,0,.6);
+  font-weight: 600;
+  font-size: .85rem;
+  text-align: right;
+}
